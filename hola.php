@@ -1,3 +1,3 @@
 <?php
 // Cristian Sanchez Barba
-echo "hola mundo cambiado!";
+@print "Hola {$argv[1]}";
